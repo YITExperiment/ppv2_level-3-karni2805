@@ -1,0 +1,9 @@
+age=12
+print(age)
+12
+Weight=48
+print(Weight)
+48
+Height=167
+print(Height)
+167
